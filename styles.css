@@ -11,10 +11,12 @@ div.post{
     border: 10px solid rebeccapurple;
     padding: 50px;
     margin: auto;
-    width: 100px;
+    width: 500px;
 }
 
 img{
+    display: block;
+    margin: auto;
     width: 200px;
     height: 200px;
 }
